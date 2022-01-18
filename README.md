@@ -1,3 +1,3 @@
-# Heroku app for PSxPS
+# Heroku app for Rotation
 
 * Docs coming soon
