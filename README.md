@@ -1,1 +1,3 @@
-# rotation-viewer
+# Heroku app for PSxPS
+
+* Docs coming soon
